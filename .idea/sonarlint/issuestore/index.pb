@@ -282,3 +282,5 @@ w
 G.idea/sonarlint/issuestore/6/7/67eaf978e530588b1f14f51aeca296c2b659e272,8/4/841fc93efe1e898ee0d3be72d3e3c86e538e94b8
 w
 G.idea/sonarlint/issuestore/6/2/623ce7b891dda02866b880a7e72d7661d9949545,6/f/6feeac0a380bada9d916f2e38dce80e55e1f6031
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
