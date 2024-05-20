@@ -1,5 +1,44 @@
 # AssignmentApi
 
+
+Using the API:
+
+Getting a list of bikes
+
+http://localhost:3000/stolen-bikes?location=YOUR_LOCATION&distance=10&page=1&per_page=25
+
+
+location: Your location
+Distance: Distance from your location in miles
+Page: Page to return
+Per Page: Records per page
+
+
+
+Get STats about manufacturers of the stolen bikes
+http://localhost:3000/bike-stats?location=YOUR_LOCATION&distance=10&page=1&per_page=100
+Gets a list of the manufacturers with number of stolen bikes per manufacturer
+
+location: Your location
+Distance: Distance from your location in miles
+Page: Page to return
+Per Page: Records per page
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 1.	Are there any potential disadvantages to using async functions?
       a.	Complexity: The level of conplexity in asycnchonous code is significantly higher as understanding the code might be difficult esecially for developers not familiar with the concept. This is because the flow in most cases is not as strasignt forward as is the case with Sycnchronous code.
       b.	Debugging: Debugging asycnhronous code can me more difficult than Synchronous code as the flow is not as straightforward making it difficult to identify problem areas within the flow to identify error easily.
